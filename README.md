@@ -26,7 +26,7 @@
 - **Languages:** JavaScript, TypeScript, PHP, SQL, C#
 - **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML/CSS
 - **Backend:** Laravel, Node.js, ASP.NET
-- **Mobile:** Flutter
+- **Mobile:** React Native , Flutter
 - **CMS:** WordPress (custom themes & plugins)
 - **Tools:** Git, Trello
 - **SEO:** Technical SEO, On-page & Off-page optimization, Speed Audits, Schema, Local SEO
@@ -51,9 +51,6 @@
 - 📧 Email: [mohamedbelalia.dev@gmail.com](mailto:mohamedbelalia.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mohamed-belalia-0b886a229](https://www.linkedin.com/in/mohamed-belalia-0b886a229/)
 
----
-
-> I don’t just debug code. I debug **systems**, **strategies**, and **UX bottlenecks**.
 
 
 
