@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mohamed Belalia 👋</h1>
+<h1 align="center">Hey there, I'm <a target="_blank" href="https://www.belalia.info">Mohamed Belalia</a>👋</h1>
 <h3 align="center">Full Stack Developer | SEO Strategist | Systems Thinker</h3>
 
 <p align="center">
