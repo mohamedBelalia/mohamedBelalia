@@ -49,7 +49,8 @@
 
 - 🌐 Portfolio: [www.belalia.info](https://www.belalia.info)
 - 📧 Email: [mohamedbelalia.dev@gmail.com](mailto:mohamedbelalia.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohamed-belalia-0b886a229](https://www.linkedin.com/in/mohamed-belalia-0b886a229/)
+- 💼 LinkedIn: [linkedin.com/in/mohamed-belalia-0b886a229](https://www.linkedin.com/in/mohamed-belalia/)
+
 
 
 
